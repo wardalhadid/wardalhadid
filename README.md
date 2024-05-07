@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ward Alhadid</h1>
+<h1 align="center">Hi, I'm Ward Alhadid</h1>
 <h3 align="center">Full-Stack Java Engineer</h3>
 
 <br />
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AWS - Cloud Services**
 
-- 👨‍💻 All of my projects are available at [https://www.wardalhadid.com](https://www.wardalhadid.com)
+- 👨‍💻 My Portfolio is available at [https://www.wardalhadid.com](https://www.wardalhadid.com)
 
 - 📫 How to reach me **wf.hadid94@gmail.com**
 <br />
